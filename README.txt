@@ -9,3 +9,4 @@ Percobaan unstage.
 Perubahan ini dibuat langsung dari GitHub.
 Ini adalah fitur login.
 Percobaan git fetch.
+Percobaan commit yang akan dibatalkan.
