@@ -9,3 +9,4 @@ Percobaan unstage.
 Perubahan ini dibuat langsung dari GitHub.
 Ini adalah fitur login.
 Percobaan git fetch.
+Belajar membandingkan commit.
