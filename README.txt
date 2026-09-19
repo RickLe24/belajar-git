@@ -13,3 +13,4 @@ Belajar membandingkan commit.
 Latihan remote tracking.
 Perubahan langsung dari GitHub untuk latihan behind.
 Fitur profil sedang dikembangkan.
+Fitur pencarian sedang dikembangkan.
